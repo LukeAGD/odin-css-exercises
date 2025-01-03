@@ -1,0 +1,20 @@
+p {
+    background-color: rgb(209, 122, 122);
+    font-family: "Verdana", "DejaVu Sans", sans-serif;
+}
+
+div#num2 {
+    color: blue;
+    font-size: 36px;
+}
+
+div#num4 {
+    background-color: rgb(151, 240, 166);
+    font-size: 24px;
+    font-weight: 800;
+}
+
+p.cooler {
+    font-size: 24px;
+
+}
