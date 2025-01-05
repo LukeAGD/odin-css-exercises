@@ -6,7 +6,7 @@ body {
 .card {
   width: 400px;
   background: #fff;
-  margin: 8px auto;
+  margin: 0px auto;
   padding: 8px;
 }
 
@@ -25,7 +25,7 @@ body {
 
 .button-container {
   background: #e3f4ff;
-  margin: 5px auto;
+  margin: 8px auto;
   text-align: center;
   padding: 8px 0;
 }
